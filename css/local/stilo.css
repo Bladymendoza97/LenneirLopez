@@ -1,0 +1,53 @@
+
+
+.content1{
+    background: #eaeaea;
+    
+}
+.content2{
+background: #9e9999;
+
+}
+
+.content3{
+    background: #f3a3a3;
+    
+    }
+.borde{
+   border: 1px solid black; 
+   text-align: center;
+   height: 50px;
+}
+
+.color1{
+
+    background: #d46868;
+}
+
+.color2{
+    background: #56db8e;
+}
+
+.color3{
+    background: #533dd3;
+}
+
+.color4{
+    background: #d14c95;
+    height: 350px;
+}
+
+
+/* practicando con bootstrap 4 */
+
+
+.slider{
+    background: url('../../1.jpeg');
+    height: 100vh;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+}
+
+.titulo{ color: white !important;}
